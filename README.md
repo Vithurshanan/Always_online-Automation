@@ -36,5 +36,5 @@ To stop the script manually, close the window or press **Ctrl + C** in the termi
 - **GUI not opening?**  
   - Make sure `tkinter` is installed:  
     
-  ``` " pip install tk"
-    ```
+  " pip install tk"
+    
